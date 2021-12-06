@@ -2,7 +2,7 @@
   
 # Hello There  :octocat:   السلام عليكم    
 
-A Software Engineering Working  @[**Resal**](https://github.com/resalApps)
+A Software Engineering Working  
 
 </div>
 
